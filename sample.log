@@ -1,0 +1,9 @@
+Sep 04 10:00:01 fedora sshd-session[1001]: Failed password for student from 192.0.2.10 port 50001 ssh2
+Sep 04 10:00:05 fedora sshd-session[1002]: Failed password for student from 192.0.2.10 port 50002 ssh2
+Sep 04 10:00:10 fedora sshd-session[1003]: Failed password for student from 192.0.2.10 port 50003 ssh2
+Sep 04 10:00:20 fedora sshd-session[1004]: Accepted password for student from 192.0.2.10 port 50004 ssh2
+Sep 04 10:01:01 fedora sshd-session[1005]: Invalid user admin from 198.51.100.20 port 41001
+Sep 04 10:01:02 fedora sshd-session[1006]: Failed password for root from 198.51.100.20 port 41002 ssh2
+Sep 04 10:01:03 fedora sshd-session[1007]: Failed password for root from 198.51.100.20 port 41003 ssh2
+Sep 04 10:01:04 fedora sshd-session[1008]: Failed password for root from 198.51.100.20 port 41004 ssh2
+Sep 04 10:01:05 fedora sshd-session[1009]: Failed password for root from 198.51.100.20 port 41005 ssh2
